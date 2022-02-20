@@ -2,3 +2,8 @@
 	path = TijmenHolt/field-service
 	url = git@github.com:TijmenHolt/field-service.git
 	branch = 14.0
+
+[submodule "OCA/contract"]
+	path = OCA/contract
+	url = git@github.com:OCA/contract.git
+	branch = 14.0
